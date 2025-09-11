@@ -1,0 +1,10 @@
+/* Change Header1 color to green */
+h1{
+    color: green;
+}
+/* Change Header2 color to blueviolet */
+h2{
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
+

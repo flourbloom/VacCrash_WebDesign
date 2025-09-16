@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+.year{
+    font-size: 17px;
+    font-weight: 200;
+    color: gray;
+    margin-top: 20px;
+}
+img{
+    margin-bottom: 20px;
+}
+.last-sentence{
+    font-size: 20px;
+    color: lightgray;
+}
